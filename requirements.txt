@@ -1,0 +1,10 @@
+streamlit
+sentence-transformers
+faiss-cpu
+numpy
+PyMuPDF
+python-docx
+google-generativeai
+plotly
+nltk
+torch
